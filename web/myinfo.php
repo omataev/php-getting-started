@@ -1,8 +1,12 @@
 <html>
 <head>
-    <title>PHP Test</title>
+    <title>ДР</title>
 </head>
-<body>
+<p>
+<p>
+    <h1>Домашняя работа</h1><br>
+    <h2>Автор: Олег Матаев</h2>
+</p>
 <form name="MyForm" enctype="multipart/form-data" method="post" action="upload.php">
     <p><b>C каким именем сохранить файл на сервере:</b><br>
         <input name="file_name" type="text" size="40">
